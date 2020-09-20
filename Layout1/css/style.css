@@ -148,10 +148,10 @@ body {
     text-transform: uppercase;
     color: #D5C4B2;
     border-bottom: 1px solid #D5C4B2;
-    margin: 0 0 24px;
+    margin: 0 0 12px;
 }
 .section {
-    padding: 0 48px;
+    padding: 12px 48px;
 }
 .text {
     margin: 0 0 21px;
